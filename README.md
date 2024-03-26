@@ -13,3 +13,4 @@ Repository for student projects and assignments
 
 [lab7](https://colab.research.google.com/drive/1fxn1eWLTb0kYpcGHh3Lk8YXTEMofV2t9#scrollTo=IX4Eg78wweiI)
 
+[lab8](https://colab.research.google.com/drive/1zaL-6PDJdKEHusudaEDBkZXiOvnrEhBt#scrollTo=ZkOBHzkV_iX_)
