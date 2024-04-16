@@ -17,6 +17,6 @@ Repository for student projects and assignments
 
 [lab8](https://colab.research.google.com/drive/1zaL-6PDJdKEHusudaEDBkZXiOvnrEhBt#scrollTo=ZkOBHzkV_iX_)
 
-[lab9](https://colab.research.google.com/drive/18-0thQHqXQFizsipJiT56p77KL3B482k)
+[lab9]()
 
 [lab10]()
